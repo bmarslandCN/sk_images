@@ -344,25 +344,6 @@ b 3 3 f f 3 c 8 9 1 8 8 8 8 . .
 . . . c e c c e e e e e e . . . 
 . . . . e e e e . e e e e . . . 
 `;
-            case "image8":
-            case "myImage":return img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . e e e . . . . . . . 
-. . . . . e e e e e . . . . . . 
-. . . . e e e e e e e . . . . . 
-. . . . f e e f e e e e . . . . 
-. . . e 4 4 e e e e e e e . . . 
-. . e 4 4 4 4 4 e e e e e e . . 
-. e e c c c c 4 e e c c e e . . 
-. e e e 4 4 4 4 e e c e e e e . 
-4 4 e e e e e e e e c e e e e . 
-4 4 e e e e e e e c e e e e c . 
-e e e e e e e 4 4 e e e e c . . 
-. e e e e e e 4 4 e e e e c . . 
-. . . e e e e e e c c e c . . . 
-. . . e e e e . e e e e . . . . 
-`;
             case "image9":
             case "spacesuitRight":return img`
 . . . . . . . . . . . . . . . . 
@@ -400,6 +381,25 @@ e e e e e e e 4 4 e e e e c . .
 . . . c c c c c c c c c . . . . 
 . . . c 1 b c . c 1 b c . . . . 
 . . . . c c . . . c c . . . . . 
+`;
+            case "image8":
+            case "gorillasuitLeft":return img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . e e e . . . . . . . 
+. . . . . e e e e e . . . . . . 
+. . . . e e e e e e e . . . . . 
+. . . . f e e f e e e e . . . . 
+. . . e 4 4 e e e e e e e . . . 
+. . e 4 4 4 4 4 e e e e e e . . 
+. e e c c c c 4 e e c c e e . . 
+. e e e 4 4 4 4 e e c e e e e . 
+4 4 e e e e e e e e c e e e e . 
+4 4 e e e e e e e c e e e e c . 
+e e e e e e e 4 4 e e e e c . . 
+. e e e e e e 4 4 e e e e c . . 
+. . . e e e e e e c c e c . . . 
+. . . e e e e . e e e e . . . . 
 `;
         }
         return null;

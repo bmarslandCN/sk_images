@@ -40,11 +40,6 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "gorillasuitRight"
     },
-    "image8": {
-        "data": "hwQQABAAAAAAAAAAAEQOAAAAAADuRO4AAAAA4O7u7gAAAABO7O7u7gAA/kRM7u7uAODuREzu7u4A7u5OTO7u7gDu/k5E7kQOAO7u7u7uRO4A4O7u7s7u7AAA7u7M7O7sAADg7uzu7u4AAADu7u7uDAAAAODu7swAAAAAAODOAAAAAAAAAAAAAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "myImage"
-    },
     "image9": {
         "data": "hwQQABAAAAAAAAAAAAAAAAAAwMzMzAAAAADMu7u7DAAAABwREREMAAAAzMzBu8sMAMC7yxwbwcsAHPG/vLHBwQAR//+7EcsMABH//7HBwQAAEf//sZHBDAAR//+xIcHLABv5/xwRwcEAsJu/wMzMDAAAAAAAHAwAAAAAAADADAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
@@ -54,6 +49,11 @@
         "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAwAwAAAAAAAAcDAAAsJu/wMzMDAAb+f8cEcHBABH//7EhwcsAEf//sZHBDAAR//+xwcEAABH//7sRywwAHPG/vLHBwQDAu8scG8HLAADMzMG7ywwAABwREREMAAAAzLu7uwwAAADAzMzMAAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "spacesuitLeft"
+    },
+    "image8": {
+        "data": "hwQQABAAAAAAAAAAAEQOAAAAAADuRO4AAAAA4O7u7gAAAABO7O7u7gAA/kRM7u7uAODuREzu7u4A7u5OTO7u7gDu/k5E7kQOAO7u7u7uRO4A4O7u7s7u7AAA7u7M7O7sAADg7uzu7u4AAADu7u7uDAAAAODu7swAAAAAAODOAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "gorillasuitLeft"
     },
     "anim1": {
         "namespace": "myAnimations",
